@@ -20,8 +20,8 @@ buildExpired = false
     title = "Ishan Anand"
     subtitle = "Assistant Professor of Economics | Department of Humanities & Social Sciences | IIT Delhi\n\nI am an Assistant Professor of Economics at IIT Delhi. I work on inequality, climate change, history of economic thought, and development. I am also into open water swimming."
     imageUrl = "images/profile.jpg"
-    imageWidth = 160
-    imageHeight = 160
+    imageWidth = 220
+    imageHeight = 220
 
   [[params.socialIcons]]
     name = "email"
