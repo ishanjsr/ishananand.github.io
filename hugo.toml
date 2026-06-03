@@ -1,0 +1,69 @@
+baseURL = "https://ishanjsr.github.io/"
+languageCode = "en-us"
+title = "Ishan Anand"
+theme = "PaperMod"
+paginate = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  title = "Ishan Anand"
+  description = "Assistant Professor of Economics, IIT Delhi"
+  author = "Ishan Anand"
+
+  [params.profileMode]
+    enabled = true
+    title = "Ishan Anand"
+    subtitle = "Assistant Professor of Economics\nDepartment of Humanities & Social Sciences\nIndian Institute of Technology Delhi"
+    imageUrl = "images/profile.jpg"
+    imageWidth = 160
+    imageHeight = 160
+
+    [[params.profileMode.buttons]]
+      name = "Research"
+      url = "/research"
+
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/blog"
+
+    [[params.profileMode.buttons]]
+      name = "Swim Stuff"
+      url = "/swim-stuff"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:ianand@iitd.ac.in"
+
+  [[params.socialIcons]]
+    name = "google-scholar"
+    url = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ&hl=en"
+
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+
+[[menu.main]]
+  identifier = "research"
+  name = "Research"
+  url = "/research/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "swim"
+  name = "Swim Stuff"
+  url = "/swim-stuff/"
+  weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
