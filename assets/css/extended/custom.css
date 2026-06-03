@@ -7,8 +7,8 @@
 
 .slider {
   position: relative;
-  width: 240px;
-  height: 240px;
+  width: 320px;
+  height: 320px;
   border-radius: 50%;
   overflow: hidden;
   margin: 0 auto 1.5rem;
