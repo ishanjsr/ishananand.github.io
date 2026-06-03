@@ -2,25 +2,22 @@
 
 <div class="profile-container">
 
-  <!-- BIG CIRCULAR SLIDER -->
-  <div class="slider">
+  <!-- SLIDESHOW -->
+  <div class="slideshow-wrap">
 
-    <div class="slides">
+    <div class="slideshow">
 
-      <img src="{{ .Site.BaseURL }}images/profile.jpg"
-           alt="Ishan Anand"
-           class="slide">
+      <div class="slides">
 
-      <img src="{{ .Site.BaseURL }}images/palk.jpg"
-           alt="In the water"
-           class="slide">
+        <img src="{{ .Site.BaseURL }}images/profile.jpg"
+             alt="Ishan Anand"
+             class="slide">
 
-      <!-- ADD MORE IMAGES LIKE THIS -->
-      <!--
-      <img src="{{ .Site.BaseURL }}images/photo3.jpg"
-           alt="Another photo"
-           class="slide">
-      -->
+        <img src="{{ .Site.BaseURL }}images/palk.jpg"
+             alt="In the water"
+             class="slide">
+
+      </div>
 
     </div>
 
@@ -45,21 +42,17 @@
     </p>
 
     <div class="social-links">
-
-      <a href="mailto:ianand@iitd.ac.in">
-        ✉ Email
-      </a>
+      <a href="mailto:ianand@iitd.ac.in">✉ Email</a>
 
       <a href="https://scholar.google.com/citations?user=t5YYVSUAAAAJ&hl=en"
          target="_blank">
-        Google Scholar
+         Google Scholar
       </a>
 
       <a href="https://hss.iitd.ac.in/faculty/ishan-anand"
          target="_blank">
-        IIT Delhi Profile
+         IIT Delhi Profile
       </a>
-
     </div>
 
   </div>
@@ -70,8 +63,11 @@
 
 document.addEventListener("DOMContentLoaded", function () {
 
-  const slides = document.querySelector(".slides");
-  const slideItems = document.querySelectorAll(".slide");
+  const slides =
+    document.querySelector(".slides");
+
+  const slideItems =
+    document.querySelectorAll(".slide");
 
   let index = 0;
 
