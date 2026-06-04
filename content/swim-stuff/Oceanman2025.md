@@ -1,10 +1,10 @@
 ---
-title: "Sri Lanka to India (Palk Strait) Relay"
-description: "Five-member relay"
+title: "Oceanman"
+description: "5k"
 date: 2026-05-09
 draft: false
 cover:
-  image: "/images/swim/palk1.jpeg"
+  image: "/images/swim/oceanman1.jpeg"
   alt: " "
   caption: "The relay team"
   relative: false

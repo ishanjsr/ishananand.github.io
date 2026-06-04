@@ -1,10 +1,10 @@
 ---
-title: "Sri Lanka to India (Palk Strait) Relay"
-description: "Five-member relay"
+title: "Lakeman Bhopal"
+description: "5k"
 date: 2026-05-09
 draft: false
 cover:
-  image: "/images/swim/palk1.jpeg"
+  image: "/images/swim/Bhopal.jpeg"
   alt: " "
   caption: "The relay team"
   relative: false
