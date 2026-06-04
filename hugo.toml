@@ -42,10 +42,10 @@ buildExpired = false
   weight = 10
 
 [[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "/blog/"
-  weight = 20
+  identifier = "PopularWri"
+  name = "popular-writings"
+  url = "/popular-writings/"
+  weight = 30
 
 [[menu.main]]
   identifier = "swim"
