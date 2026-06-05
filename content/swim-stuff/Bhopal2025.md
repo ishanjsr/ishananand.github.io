@@ -19,7 +19,7 @@ Photos go anywhere in the story like this:
 
 More text continues here.
 
-![Finishing touch](/images/swim/Bhopal3.jpeg)
+![Finishing touch](/images/swim/Bhopal3.jpg)
 
 ## The Race
 

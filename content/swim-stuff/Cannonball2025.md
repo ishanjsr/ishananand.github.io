@@ -4,7 +4,7 @@ description: "10k"
 date: 2025-09-21
 draft: false
 cover:
-  image: "/images/swim/cannonball.jpeg"
+  image: "/images/swim/cannonball.jpg"
   alt: " "
   caption: " "
   relative: false
@@ -19,7 +19,7 @@ Photos go anywhere in the story like this:
 
 More text continues here.
 
-![Finishing touch](/images/swim/cannonball1.jpeg)
+![Finishing touch](/images/swim/cannonball1.png)
 
 ## The Race
 

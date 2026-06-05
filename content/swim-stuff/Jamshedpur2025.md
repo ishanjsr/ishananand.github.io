@@ -4,7 +4,7 @@ description: "5k"
 date: 2025-12-15
 draft: false
 cover:
-  image: "/images/swim/Jamshedpur1.jpeg"
+  image: "/images/swim/Jamshedpur1.png"
   alt: " "
   caption: "The relay team"
   relative: false

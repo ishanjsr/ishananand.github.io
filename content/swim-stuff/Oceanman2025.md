@@ -15,7 +15,7 @@ cover:
 Write your story here. As much text as you want.
 Photos go anywhere in the story like this:
 
-![Start of the race](/images/swim/Oceanman2.jpeg)
+![Start of the race](/images/swim/Oceanman2.png)
 
 More text continues here.
 
