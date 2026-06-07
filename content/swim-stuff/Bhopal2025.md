@@ -4,7 +4,7 @@ description: "5k"
 date: 2025-10-05
 draft: false
 cover:
-  image: "/images/swim/Bhopal.jpeg"
+  image: "/images/swim/Bhopal1.jpeg"
   alt: " "
   caption: "The relay team"
   relative: false
@@ -18,16 +18,16 @@ First practice session on Friday was perfect! I was thinking about doing a 10k i
 
 The second practice session on Saturday was tough. My first experience of a choppy lake. Some struggle initially. But I did about 1.5k or so on Saturday too. I thought surely the lake can't get worse, and it would be calm on race day. I was so wrong. 
 
-![Start of the race](/images/swim/palk2.jpeg)
-
 Heavy rainfall all night, strong winds, and the lake was so much worse! Terribly choppy. The water level was about 1.5 - 2 feet higher than the previous day.
+
+![Start of the race](/images/swim/Bhopal2.mp4)
 
 Standing on the deck before the race, I didn't feel excited or scared or nervous; it was a feeling of nothingness. Just neutral emotions. Which I feel is a good thing! 
 
 Race started at about 7 am. Started swimming and felt like I was an insect in this giant washing machine - and it continued to feel more or less the same throughout. It became slightly easier towards the end, or did I just get used to it?! It was just hard work. Each stroke was a grind. 
  
 
-![Finishing touch](/images/swim/palk3.jpeg)
+![Finishing touch](/images/swim/Bhopal3.jpeg)
 
 My inability to swim in a straight line probably cost me 30 minutes or more. It was my first open water outing when I did not have a panic attack. Some disorientation, but no panic attack. 
 

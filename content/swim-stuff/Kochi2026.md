@@ -20,17 +20,19 @@ Finished the 10k in 5 hours and 25 minutes.
 
 Glad that I did a 10k rather than a 6k. I would have been able to manage a 6k, and it would have masked the underlying issues. But the 10k exposed all the glaring deficiencies. 
 
+
+![Finishing touch](/images/swim/Kochi3.jpeg)
+
+
 I realised I really need to work on the technique, and probably strength, so the technique holds under fatigue. Towards the end of the race I was hardly moving. Things were more or less fine in the first two laps, started falling apart after that. Last two laps were very slow.  
+
+Its been less than a year doing open water, so a 10k, even a slow one, is not really that bad. 
+Felt completely secure and comfortable in water - and that is important too. Hopefully a 16k in Kochi next year!
 
 
 ![Start of the race](/images/swim/Kochi2.jpeg)
 
 
-
-![Finishing touch](/images/swim/Kochi3.jpeg)
-
-Its been less than a year doing open water, so a 10k, even a slow one, is not really that bad. 
-Felt completely secure and comfortable in water - and that is important too. Hopefully a 16k in Kochi next year!
 
 
 

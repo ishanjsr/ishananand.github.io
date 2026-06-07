@@ -38,7 +38,5 @@ Thinking back, I don't think I knew what I was getting into signing up for a 5k 
 
 Struggling with the waves, swimming in the rough sea, and getting stung somehow strengthened my conviction that this is what I want to do!  
 
-![race map](/images/swim/palk3.jpeg)
-
 ---
 

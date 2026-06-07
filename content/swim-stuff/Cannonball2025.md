@@ -4,7 +4,7 @@ description: "10k"
 date: 2025-09-21
 draft: false
 cover:
-  image: "/images/swim/cb1.jpeg"
+  image: "/images/swim/cannonball.jpeg"
   alt: " "
   caption: "The relay team"
   relative: false
@@ -23,16 +23,16 @@ My coach (Rachna) showed me a white-board, which I guess read, "Don't count ever
 My neck started to hurt while rotating to breathe! On the pain scale, it may be a 4/10. But every time I turned my head, I felt a sprain. 
 
 
-![Start of the race](/images/swim/cb2.jpeg)
+![Start of the race](/images/swim/cannonball2.jpeg)
 
 Mid-race thoughts: what am I doing here! Do I even belong here?
 
 Learnt a lot of important lessons - Work on technique - catch, pull, glide, kick, EVF - all need to improve. I also realised it's only a 10k and I could put in more effort. I don't need to think about preserving energy as if its a channel swim. 
 
 
-![Finishing touch](/images/swim/cb3.jpeg)
-
 Thinking back, I also thought I don't just walk past the finish line like it is a formality! Take a moment to enjoy the finish line. 
+
+![Finishing touch](/images/swim/cannonball1.jpeg)
 
 
 ---

@@ -4,7 +4,7 @@ description: "5k"
 date: 2025-10-26
 draft: false
 cover:
-  image: "/images/swim/oceanman1.jpeg"
+  image: "/images/swim/Oceanman1.jpeg"
   alt: " "
   caption: "The relay team"
   relative: false
@@ -16,7 +16,7 @@ It was quite an experience walking in the rain to reach the venue at 6 am in the
 
 The next day, it was a wonderful experience at the start line, standing with so many eminent swimmers and newbies, singing the national anthem, and buzzing with anticipation. Loved every second of that experience. 
 
-![Start of the race](/images/swim/palk2.jpeg)
+![Start of the race](/images/swim/Oceanman2.jpeg)
 
 I did one loop (supposed to be 2.5k) in 1 hour and 20 mins. Not really an ideal speed. 
 
@@ -24,8 +24,6 @@ It was my first time racing with so many people bumping into me. Did not worry a
 
 Unfortunately, the organisers had to cancel the race mid-swim! 
 
-
-![Finishing touch](/images/swim/palk3.jpeg)
 
 ---
 
