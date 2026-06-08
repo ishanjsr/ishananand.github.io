@@ -63,3 +63,6 @@ buildExpired = false
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[services.googleAnalytics]
+id = "G-BCD00VX8KM"
