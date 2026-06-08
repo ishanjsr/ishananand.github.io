@@ -6,7 +6,7 @@ draft: false
 cover:
   image: "/images/swim/Jamshedpur2.jpeg"
   alt: " "
-  caption: "The relay team"
+  caption: " "
   relative: false
 ---
 
@@ -14,14 +14,18 @@ cover:
 
 A lake race in Jamshedpur in mid-December?! It was foggy and the water was cold!
 
-Practice swim was not pleasant to say the least. 16 degrees air temperature. Very cold water. Struggled to get the breathing right initially. Did some bubbling, continued and the body warmed up. Did about 2k in an hour.
-
 My preparations were okay. Did a few 4ks in the run-up. 
+
+Practice swim in Jamshedpur was not pleasant to say the least. 16 degrees air temperature. Very cold water. Struggled to get the breathing right initially. Did some bubbling, continued and the body warmed up. Did about 2k in an hour.
+
+On race day, did a light jog before the race to get my heart rate up. I also started with breaststroke to minimize the cold water shock initially - for about 100m. 
+
+We had to do two loops. The event was so well organised - huge sighting buoys, many boats and kayaks in water, giving all sort of stuff to swimmers, including carb gels! 
+
+I completed the 5k race in 2 hours and 43 minuets. Not pleased with the time. But very happy to experience the cold water swim. 
 
 The second loop was much better for me. I felt my stroke rate was up and my spirits were better. Was it the gel or the sugar rush from the glucose? Was it the fact that temperature improved and the body warmed up? But it's definitely a good sign that the second loop, far from being tiring, was the more spirited one. 
 
-
-Completed the 5k race in 2 hours and 43 minuets. Not pleased with the time. But very happy to experience the cold water swim. 
 
 ![Start of the race](/images/swim/Jamshedpur3.jpeg)
 
