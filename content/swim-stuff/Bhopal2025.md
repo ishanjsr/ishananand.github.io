@@ -21,9 +21,9 @@ The second practice session on Saturday was tough. My first experience of a chop
 Heavy rainfall all night, strong winds, and the lake was so much worse! Terribly choppy. The water level was about 1.5-2 feet higher than the previous day. I thought there was no way the organisers could go ahead with the event in these conditions. But they were extremely professional and well organised. It took some time to put in the sighting buoys and get the venue ready, but the event was on. 
 
 <iframe
-    width="100%"
+    width="80%"
     height="600"
-    src="https://youtube.com/shorts/cZnw-_c9mVk?feature=share"
+    src="https://www.youtube.com/embed/cZnw-_c9mVk"
     title="Choppy lake - just before start of the race"
     frameborder="0"
     allowfullscreen>
