@@ -60,3 +60,6 @@ buildExpired = false
   linkFullImages = false
   thumbnailInList = true
   responsiveImages = false
+
+[markup.goldmark.renderer]
+  unsafe = true
